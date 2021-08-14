@@ -1,0 +1,12 @@
+{
+    "name": "asus/quotes_library",
+    "description": "Sebuah library PHP untuk mendapatkan quotes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ihsan Devs",
+            "email": "ihsan_devs@pm.me"
+        }
+    ]
+}
